@@ -27,12 +27,12 @@ class Carousel extends Component {
                         <img src="../static/images/4.png" class='piece' style="-webkit-transform: rotateY(300deg) translateZ(196px);">*/}
 
                          {/*此处使用div代替 */}
-                        <div class='example'></div>
-                        <div class='example' ></div>
-                        <div class='example' ></div>
-                        <div class='example' ></div>
-                        <div class='example' ></div>
-                        <div class='example' ></div>
+                        <div className='example'></div>
+                        <div className='example' ></div>
+                        <div className='example' ></div>
+                        <div className='example' ></div>
+                        <div className='example' ></div>
+                        <div className='example' ></div>
                     </div>
                 </div>
 

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../../logo.svg';
+import logo from '../../img/logo.jpg';
 import { Link } from "react-router-dom";
 import Carousel from '../../components/common/carousel'
 import './index.less';

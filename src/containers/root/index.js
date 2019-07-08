@@ -23,7 +23,7 @@ export default class RootContainer extends React.Component {
 
     render() {
         return (
-            <div>
+            <div style={{height:'100%'}}>
                 <Switch>
                     <Route exact path="/" component={Home} />
                     <Route exact path="/baseInfo" component={BaseInfo} />
