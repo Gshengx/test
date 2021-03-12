@@ -61,7 +61,7 @@
     "react": "^16.8.1",
     "react-app-polyfill": "^0.2.1",
     "react-css-modules": "^4.7.3",
-    "react-dev-utils": "^7.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-document-title": "^2.0.3",
     "react-dom": "^16.8.1",
     "react-iframe": "^1.2.0",
